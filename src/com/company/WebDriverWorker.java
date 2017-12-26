@@ -16,7 +16,7 @@ public class WebDriverWorker {
     WebDriver driver;
     List<WebElement> title;
     List<WebElement> description;
-    Map<String, String> ingredients = new HashMap<>();
+    Map<String, String> ingredients = new HashMap();
 
     public WebDriverWorker() {
         driver = new SafariDriver();
