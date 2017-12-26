@@ -1,0 +1,12 @@
+# Compiled class file
+*.class
+
+# out Folder
+out
+
+# .DS_Store
+.DS_Store
+
+#Idea files
+.idea
+*.iml
